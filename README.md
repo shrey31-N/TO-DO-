@@ -21,13 +21,14 @@ Python 3
 Git & GitHub
 
 todo-app/
-├── main.py            # Entry point of the app
-├── task_module.py     # Handles task operations (if modularized)
-├── requirements.txt   # Optional (for dependencies if any)
+├── app.py            # Entry point of the app
+├── modules.py     # Handles task operations 
+├── todos.txt   
 └── README.md
 
 
 🔧 Key Concepts Used
+
 ✅ Functions (def) for reusable logic
 
 📦 Modules to organize code
