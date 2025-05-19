@@ -2,7 +2,7 @@
 📝 To-Do List (Python)
 A simple and functional To-Do List application built using Python. This app allows users to add, view, mark complete, and delete tasks efficiently via a user-friendly interface 
 
-#🚀 Features
+# 🚀 Features
 
 ➕ Add new tasks
 
@@ -17,18 +17,18 @@ A simple and functional To-Do List application built using Python. This app allo
 🔒 Handles invalid input with try-except blocks
 
 
-#🛠️ Tech Stack
+# 🛠️ Tech Stack
 : Python 3
 : Git & GitHub
 
-#todo-app/
+# todo-app/
 ├── app.py            # Entry point of the app
 ├── modules.py     # Handles task operations 
 ├── todos.txt   
 └── README.md
 
 
-#🔧 Key Concepts Used
+# 🔧 Key Concepts Used
 
 ✅ Functions (def) for reusable logic
 
